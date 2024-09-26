@@ -15,3 +15,4 @@
 
 ## Paso 5: Esperar a que la otra parte acepte tu pull-request.  En este caso es un ejemplo de yo aceptando la otra parte
 ![](img/pull-request-andres.png)
+
